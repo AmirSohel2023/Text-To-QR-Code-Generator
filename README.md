@@ -61,12 +61,14 @@ cd flask-qrcode-generator
 ```bash
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
-``
+```
 
 4. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+pip install flask qrcode
+pip install pillow
 ```
 
 5. Run the application
@@ -95,7 +97,7 @@ This project is deployed on **PythonAnywhere**, making it accessible online with
 
 **Amir Sohel Sarkar Masum**
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
+* GitHub: https://github.com/AmirSohel2023/Text-To-QR-Code-Generator
 * Live Project: [https://amirqr.pythonanywhere.com/](https://amirqr.pythonanywhere.com/)
 
 
