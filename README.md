@@ -47,7 +47,7 @@ project/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/flask-qrcode-generator.git
+git clone https://github.com/AmirSohel2023/Text-To-QR-Code-Generator.git
 ```
 
 2. Navigate to the project folder
